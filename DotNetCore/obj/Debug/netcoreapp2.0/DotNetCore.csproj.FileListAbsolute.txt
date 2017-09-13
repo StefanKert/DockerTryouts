@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\bin\Debug\netcoreapp2.0\DotNetCore.deps.json
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\bin\Debug\netcoreapp2.0\DotNetCore.runtimeconfig.json
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\bin\Debug\netcoreapp2.0\DotNetCore.runtimeconfig.dev.json
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\obj\Debug\netcoreapp2.0\DotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\obj\Debug\netcoreapp2.0\DotNetCore.AssemblyInfo.cs
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\bin\Debug\netcoreapp2.0\DotNetCore.dll
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\bin\Debug\netcoreapp2.0\DotNetCore.pdb
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\obj\Debug\netcoreapp2.0\DotNetCore.dll
+C:\Users\Stefan\Documents\GitHub\DockerTryouts\DotNetCore\obj\Debug\netcoreapp2.0\DotNetCore.pdb
